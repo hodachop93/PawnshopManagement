@@ -1,0 +1,102 @@
+E:\LEARNNING\BUSINESS INFORMATION SYSTEMS ANALYSIS AND DESIGN\PROJECT\PAWNSHOP\SVN\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\bin\Debug\QuanLyCamDo.mdf
+E:\LEARNNING\BUSINESS INFORMATION SYSTEMS ANALYSIS AND DESIGN\PROJECT\PAWNSHOP\SVN\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\bin\Debug\QuanLyCamDo_log.ldf
+E:\LEARNNING\BUSINESS INFORMATION SYSTEMS ANALYSIS AND DESIGN\PROJECT\PAWNSHOP\SVN\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\bin\Debug\QuanLyTiemCamDo.exe.config
+E:\LEARNNING\BUSINESS INFORMATION SYSTEMS ANALYSIS AND DESIGN\PROJECT\PAWNSHOP\SVN\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\bin\Debug\QuanLyTiemCamDo.exe
+E:\LEARNNING\BUSINESS INFORMATION SYSTEMS ANALYSIS AND DESIGN\PROJECT\PAWNSHOP\SVN\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\bin\Debug\QuanLyTiemCamDo.pdb
+E:\LEARNNING\BUSINESS INFORMATION SYSTEMS ANALYSIS AND DESIGN\PROJECT\PAWNSHOP\SVN\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormBMVayThem.resources
+E:\LEARNNING\BUSINESS INFORMATION SYSTEMS ANALYSIS AND DESIGN\PROJECT\PAWNSHOP\SVN\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormDTChiTiet.resources
+E:\LEARNNING\BUSINESS INFORMATION SYSTEMS ANALYSIS AND DESIGN\PROJECT\PAWNSHOP\SVN\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormExGiaHan.resources
+E:\LEARNNING\BUSINESS INFORMATION SYSTEMS ANALYSIS AND DESIGN\PROJECT\PAWNSHOP\SVN\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormHopDong.resources
+E:\LEARNNING\BUSINESS INFORMATION SYSTEMS ANALYSIS AND DESIGN\PROJECT\PAWNSHOP\SVN\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormPrint.resources
+E:\LEARNNING\BUSINESS INFORMATION SYSTEMS ANALYSIS AND DESIGN\PROJECT\PAWNSHOP\SVN\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormLogin.resources
+E:\LEARNNING\BUSINESS INFORMATION SYSTEMS ANALYSIS AND DESIGN\PROJECT\PAWNSHOP\SVN\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormMain.resources
+E:\LEARNNING\BUSINESS INFORMATION SYSTEMS ANALYSIS AND DESIGN\PROJECT\PAWNSHOP\SVN\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormQuanlycamdo.resources
+E:\LEARNNING\BUSINESS INFORMATION SYSTEMS ANALYSIS AND DESIGN\PROJECT\PAWNSHOP\SVN\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.Properties.Resources.resources
+E:\LEARNNING\BUSINESS INFORMATION SYSTEMS ANALYSIS AND DESIGN\PROJECT\PAWNSHOP\SVN\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.csproj.GenerateResource.Cache
+E:\LEARNNING\BUSINESS INFORMATION SYSTEMS ANALYSIS AND DESIGN\PROJECT\PAWNSHOP\SVN\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\RdlCompile.cache
+E:\LEARNNING\BUSINESS INFORMATION SYSTEMS ANALYSIS AND DESIGN\PROJECT\PAWNSHOP\SVN\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\RdlCompile.compiled
+E:\LEARNNING\BUSINESS INFORMATION SYSTEMS ANALYSIS AND DESIGN\PROJECT\PAWNSHOP\SVN\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.exe
+E:\LEARNNING\BUSINESS INFORMATION SYSTEMS ANALYSIS AND DESIGN\PROJECT\PAWNSHOP\SVN\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.pdb
+E:\LEARNNING\BUSINESS INFORMATION SYSTEMS ANALYSIS AND DESIGN\PROJECT\PAWNSHOP\SVN\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.csprojResolveAssemblyReference.cache
+D:\bai tap\ki 8\do an cong nghe phan mem\doancnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\bin\Debug\QuanLyTiemCamDo.exe.config
+D:\bai tap\ki 8\do an cong nghe phan mem\doancnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.exe
+D:\bai tap\ki 8\do an cong nghe phan mem\doancnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.pdb
+D:\bai tap\ki 8\do an cong nghe phan mem\doancnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\bin\Debug\QuanLyCamDo.mdf
+D:\bai tap\ki 8\do an cong nghe phan mem\doancnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\bin\Debug\QuanLyCamDo_log.ldf
+D:\bai tap\ki 8\do an cong nghe phan mem\doancnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\bin\Debug\QuanLyTiemCamDo.exe
+D:\bai tap\ki 8\do an cong nghe phan mem\doancnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\bin\Debug\QuanLyTiemCamDo.pdb
+D:\bai tap\ki 8\do an cong nghe phan mem\doancnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.csprojResolveAssemblyReference.cache
+D:\bai tap\ki 8\do an cong nghe phan mem\doancnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormBMVayThem.resources
+D:\bai tap\ki 8\do an cong nghe phan mem\doancnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormDTChiTiet.resources
+D:\bai tap\ki 8\do an cong nghe phan mem\doancnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormExGiaHan.resources
+D:\bai tap\ki 8\do an cong nghe phan mem\doancnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormHopDong.resources
+D:\bai tap\ki 8\do an cong nghe phan mem\doancnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormPrint.resources
+D:\bai tap\ki 8\do an cong nghe phan mem\doancnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormLogin.resources
+D:\bai tap\ki 8\do an cong nghe phan mem\doancnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormMain.resources
+D:\bai tap\ki 8\do an cong nghe phan mem\doancnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormQuanlycamdo.resources
+D:\bai tap\ki 8\do an cong nghe phan mem\doancnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.Properties.Resources.resources
+D:\bai tap\ki 8\do an cong nghe phan mem\doancnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.csproj.GenerateResource.Cache
+D:\bai tap\ki 8\do an cong nghe phan mem\doancnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\RdlCompile.cache
+D:\bai tap\ki 8\do an cong nghe phan mem\doancnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\RdlCompile.compiled
+C:\Users\Administrator\Desktop\doan cnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\bin\Debug\QuanLyTiemCamDo.exe.config
+C:\Users\Administrator\Desktop\doan cnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.exe
+C:\Users\Administrator\Desktop\doan cnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.pdb
+C:\Users\Administrator\Desktop\doan cnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\bin\Debug\QuanLyCamDo.mdf
+C:\Users\Administrator\Desktop\doan cnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\bin\Debug\QuanLyCamDo_log.ldf
+C:\Users\Administrator\Desktop\doan cnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\bin\Debug\QuanLyTiemCamDo.exe
+C:\Users\Administrator\Desktop\doan cnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\bin\Debug\QuanLyTiemCamDo.pdb
+C:\Users\Administrator\Desktop\doan cnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\doan cnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormBMVayThem.resources
+C:\Users\Administrator\Desktop\doan cnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormDTChiTiet.resources
+C:\Users\Administrator\Desktop\doan cnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormExGiaHan.resources
+C:\Users\Administrator\Desktop\doan cnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormHopDong.resources
+C:\Users\Administrator\Desktop\doan cnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormPrint.resources
+C:\Users\Administrator\Desktop\doan cnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormLogin.resources
+C:\Users\Administrator\Desktop\doan cnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormMain.resources
+C:\Users\Administrator\Desktop\doan cnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormQuanlycamdo.resources
+C:\Users\Administrator\Desktop\doan cnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.Properties.Resources.resources
+C:\Users\Administrator\Desktop\doan cnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\doan cnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\RdlCompile.cache
+C:\Users\Administrator\Desktop\doan cnpm\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\RdlCompile.compiled
+E:\tai lieu\ki 8\doanCNPM\DAConNghePhanMem\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\bin\Debug\QuanLyTiemCamDo.exe.config
+E:\tai lieu\ki 8\doanCNPM\DAConNghePhanMem\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.exe
+E:\tai lieu\ki 8\doanCNPM\DAConNghePhanMem\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.pdb
+E:\tai lieu\ki 8\doanCNPM\DAConNghePhanMem\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\bin\Debug\QuanLyCamDo.mdf
+E:\tai lieu\ki 8\doanCNPM\DAConNghePhanMem\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\bin\Debug\QuanLyCamDo_log.ldf
+E:\tai lieu\ki 8\doanCNPM\DAConNghePhanMem\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\bin\Debug\QuanLyTiemCamDo.exe
+E:\tai lieu\ki 8\doanCNPM\DAConNghePhanMem\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\bin\Debug\QuanLyTiemCamDo.pdb
+E:\tai lieu\ki 8\doanCNPM\DAConNghePhanMem\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.csprojResolveAssemblyReference.cache
+E:\tai lieu\ki 8\doanCNPM\DAConNghePhanMem\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormBMVayThem.resources
+E:\tai lieu\ki 8\doanCNPM\DAConNghePhanMem\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormDTChiTiet.resources
+E:\tai lieu\ki 8\doanCNPM\DAConNghePhanMem\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormExGiaHan.resources
+E:\tai lieu\ki 8\doanCNPM\DAConNghePhanMem\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormHopDong.resources
+E:\tai lieu\ki 8\doanCNPM\DAConNghePhanMem\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormPrint.resources
+E:\tai lieu\ki 8\doanCNPM\DAConNghePhanMem\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormLogin.resources
+E:\tai lieu\ki 8\doanCNPM\DAConNghePhanMem\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormMain.resources
+E:\tai lieu\ki 8\doanCNPM\DAConNghePhanMem\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormQuanlycamdo.resources
+E:\tai lieu\ki 8\doanCNPM\DAConNghePhanMem\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.Properties.Resources.resources
+E:\tai lieu\ki 8\doanCNPM\DAConNghePhanMem\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.csproj.GenerateResource.Cache
+E:\tai lieu\ki 8\doanCNPM\DAConNghePhanMem\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\RdlCompile.cache
+E:\tai lieu\ki 8\doanCNPM\DAConNghePhanMem\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\RdlCompile.compiled
+E:\tai lieu\ki 8\doanCNPM\DAConNghePhanMem\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormThanhLyHang.resources
+E:\QuanLyCamDo\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\bin\Debug\QuanLyTiemCamDo.exe.config
+E:\QuanLyCamDo\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.exe
+E:\QuanLyCamDo\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.pdb
+E:\QuanLyCamDo\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\bin\Debug\QuanLyCamDo.mdf
+E:\QuanLyCamDo\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\bin\Debug\QuanLyCamDo_log.ldf
+E:\QuanLyCamDo\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\bin\Debug\QuanLyTiemCamDo.exe
+E:\QuanLyCamDo\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\bin\Debug\QuanLyTiemCamDo.pdb
+E:\QuanLyCamDo\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.csprojResolveAssemblyReference.cache
+E:\QuanLyCamDo\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormBMVayThem.resources
+E:\QuanLyCamDo\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormDTChiTiet.resources
+E:\QuanLyCamDo\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormExGiaHan.resources
+E:\QuanLyCamDo\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormHopDong.resources
+E:\QuanLyCamDo\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormPrint.resources
+E:\QuanLyCamDo\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormLogin.resources
+E:\QuanLyCamDo\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormMain.resources
+E:\QuanLyCamDo\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormQuanlycamdo.resources
+E:\QuanLyCamDo\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.FormThanhLyHang.resources
+E:\QuanLyCamDo\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.Properties.Resources.resources
+E:\QuanLyCamDo\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\QuanLyTiemCamDo.csproj.GenerateResource.Cache
+E:\QuanLyCamDo\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\RdlCompile.cache
+E:\QuanLyCamDo\project\code\QuanLyTiemCamDo\QuanLyTiemCamDo\obj\Debug\RdlCompile.compiled
